@@ -1,29 +1,29 @@
 {
   "files": {
     "main.css": "/Redux_Tasks/static/css/main.f498a650.css",
-    "main.js": "/Redux_Tasks/static/js/main.6f4bf89d.js",
+    "main.js": "/Redux_Tasks/static/js/main.3491365c.js",
     "static/js/266.bcee652f.chunk.js": "/Redux_Tasks/static/js/266.bcee652f.chunk.js",
     "static/css/40.1e05f24e.chunk.css": "/Redux_Tasks/static/css/40.1e05f24e.chunk.css",
     "static/js/40.73dc457a.chunk.js": "/Redux_Tasks/static/js/40.73dc457a.chunk.js",
     "static/css/635.e2937cc9.chunk.css": "/Redux_Tasks/static/css/635.e2937cc9.chunk.css",
     "static/js/635.47a341e2.chunk.js": "/Redux_Tasks/static/js/635.47a341e2.chunk.js",
-    "static/css/853.5367c641.chunk.css": "/Redux_Tasks/static/css/853.5367c641.chunk.css",
-    "static/js/853.b511b824.chunk.js": "/Redux_Tasks/static/js/853.b511b824.chunk.js",
+    "static/css/853.c8f59c22.chunk.css": "/Redux_Tasks/static/css/853.c8f59c22.chunk.css",
+    "static/js/853.4fb84082.chunk.js": "/Redux_Tasks/static/js/853.4fb84082.chunk.js",
     "static/js/270.cdca11d3.chunk.js": "/Redux_Tasks/static/js/270.cdca11d3.chunk.js",
     "index.html": "/Redux_Tasks/index.html",
     "main.f498a650.css.map": "/Redux_Tasks/static/css/main.f498a650.css.map",
-    "main.6f4bf89d.js.map": "/Redux_Tasks/static/js/main.6f4bf89d.js.map",
+    "main.3491365c.js.map": "/Redux_Tasks/static/js/main.3491365c.js.map",
     "266.bcee652f.chunk.js.map": "/Redux_Tasks/static/js/266.bcee652f.chunk.js.map",
     "40.1e05f24e.chunk.css.map": "/Redux_Tasks/static/css/40.1e05f24e.chunk.css.map",
     "40.73dc457a.chunk.js.map": "/Redux_Tasks/static/js/40.73dc457a.chunk.js.map",
     "635.e2937cc9.chunk.css.map": "/Redux_Tasks/static/css/635.e2937cc9.chunk.css.map",
     "635.47a341e2.chunk.js.map": "/Redux_Tasks/static/js/635.47a341e2.chunk.js.map",
-    "853.5367c641.chunk.css.map": "/Redux_Tasks/static/css/853.5367c641.chunk.css.map",
-    "853.b511b824.chunk.js.map": "/Redux_Tasks/static/js/853.b511b824.chunk.js.map",
+    "853.c8f59c22.chunk.css.map": "/Redux_Tasks/static/css/853.c8f59c22.chunk.css.map",
+    "853.4fb84082.chunk.js.map": "/Redux_Tasks/static/js/853.4fb84082.chunk.js.map",
     "270.cdca11d3.chunk.js.map": "/Redux_Tasks/static/js/270.cdca11d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f498a650.css",
-    "static/js/main.6f4bf89d.js"
+    "static/js/main.3491365c.js"
   ]
 }
