@@ -1,10 +1,13 @@
-import { LoginForm } from "components/LoginForm/LoginForm.js";
+import { LoginForm } from 'components/LoginForm/LoginForm.js';
+import { Helmet } from 'react-helmet';
 
-export const Login = () => {
-    return (
-        <div>
-           <title>Login</title>
-           <LoginForm/>
-        </div>
-    )
-  };
+export default function Login() {
+  return (
+    <div>
+      <Helmet>
+        <title>Login</title>
+      </Helmet>
+      <LoginForm />
+    </div>
+  );
+}
